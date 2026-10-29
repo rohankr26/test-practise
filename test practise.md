@@ -1,6 +1,6 @@
 \-startup
 
-org.eclipse.equinox.launcher\_1.7.100.v20251111-0406.jar
+org.eclipse.equinox.launcher\_1.7.100.v20251111-0406.
 
 \--launcher.libraryplugins/
 
